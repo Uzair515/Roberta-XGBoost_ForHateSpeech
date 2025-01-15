@@ -43,7 +43,7 @@ The following libraries are required to run the project:
 
 **GPU Resources**
 
-To ensure faster training and implementation, this project leverages GPU resources. 
+To ensure faster training and implementation, this project leverages the AMD Ryzen 7 5800X processor and dual NVIDIA GeForce RTX 3080 GPUs, ensuring efficient and accelerated training and implementation of the models.
 Utilizing a GPU significantly reduces the processing time for tasks such as feature extraction with RoBERTa and model training.
 
 If a GPU is available, ensure it is enabled in your environment (e.g., Google Colab, Jupyter Notebook with CUDA support, or other platforms).
